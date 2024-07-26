@@ -1,4 +1,4 @@
-Chara, is the the NEXT Generation player designed for your Android device. 
+Chara, is the NEXT Generation player designed for your Android device. 
 Developed by CharisLite, equipped with necessary tools for playing audio, video, editing and viewing images and translated in 19 languages.
 
 🔅Featuring
